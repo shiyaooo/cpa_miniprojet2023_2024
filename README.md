@@ -1,4 +1,4 @@
-    Ce projet consiste à connecter un ensemble de points dans un plan en minimisant la longueur totale des connexions, en utilisant éventuellement des points intermédiaires appelés points de Steiner.
+Ce projet consiste à connecter un ensemble de points dans un plan en minimisant la longueur totale des connexions, en utilisant éventuellement des points intermédiaires appelés points de Steiner.
 
 - **Sans budget** : L’objectif est de trouver l’arbre de Steiner de coût total minimal, sans aucune contrainte. Tous les points doivent être connectés de manière optimale.
 ![Illustration](Arbre_Steiner_Sans_Budget.png)
